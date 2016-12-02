@@ -20,6 +20,5 @@ public class ImportJavaConfigTest {
   public void play() {
     player.play();
   }
-    
 
 }
